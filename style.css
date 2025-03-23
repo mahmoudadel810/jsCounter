@@ -1,3 +1,14 @@
 h1{
     color: red;
 }
+
+.counter-btn{
+    background-color: blue;
+    color: white;
+
+}
+
+#counter{
+    background-color: blue;
+    color: white;
+}
